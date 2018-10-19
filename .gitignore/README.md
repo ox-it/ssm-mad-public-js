@@ -1,0 +1,1 @@
+# ssm-mad-public-js
